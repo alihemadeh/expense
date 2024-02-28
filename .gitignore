@@ -1,0 +1,22 @@
+
+.idea/
+storage/
+
+
+###> symfony/framework-bundle ###
+project/.env
+project/config/secrets/prod/prod.decrypt.private.php
+project/public/bundles/
+project/var/
+project/vendor/
+###< symfony/framework-bundle ###
+
+###> phpunit/phpunit ###
+project/phpunit.xml
+.phpunit.result.cache
+###< phpunit/phpunit ###
+
+###> symfony/phpunit-bridge ###
+.phpunit.result.cache
+/phpunit.xml
+###< symfony/phpunit-bridge ###
